@@ -8,13 +8,15 @@ Created on Fri Dec 10 12:24:30 2021
 import math
 import random
 
+# File location of the list of items to rank.
 fh = open("C:\\Users\\Matt\\Documents\\GitHub\\headtohead\\BooksList.txt","r")
+# File location of your most current ranking history.
 fpast = open("matches01.csv","r")
 pastcontents = fpast.readlines()
 fpast.close()
 
 
-
+# Reopens the history file for appending.
 fo = open("matches01.csv","a")
 
 contents = fh.readlines()
@@ -28,6 +30,7 @@ print(books)
 
 bookranks = {}
 
+# Elo ranking initializes with initial 400.
 for book in books:
     bookranks[book] = 400
     
