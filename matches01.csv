@@ -1,0 +1,480 @@
+1,Jonathan Strange & Mr. Norrell,The Three-Body Problem,2
+2,The First Fifteen Lives of Harry August,Gideon the Ninth,1
+3,The Well of Ascension,A Wizard of Earthsea,1
+4,The First Fifteen Lives of Harry August,The Secret Place,1
+5,Gideon the Ninth,A Memory Called Empire,1
+6,The Hero of Ages,Mistborn,1
+7,Gideon the Ninth,Foundation,1
+8,Foundation,The Moon is a Harsh Mistress,2
+9,Fall,Children of Time,2
+10,The Moon is a Harsh Mistress,A Memory Called Empire,1
+11,The Well of Ascension,The Moon is a Harsh Mistress,2
+12,The Way of Kings,The Left Hand of Darkness,2
+13,Red Seas Under Red Skies,This is How You Lose the Time War,2
+14,The Fifth Season,The Lies of Locke Lamora,2
+15,Reaper Man,A Memory Called Empire,2
+16,The Fifth Season,This is How You Lose the Time War,2
+17,Good Omens,The Fifth Season,2
+18,Leviathan Wakes,Red Seas Under Red Skies,1
+19,The Left Hand of Darkness,Dune,2
+20,Red Seas Under Red Skies,Hyperion,2
+21,The Secret Place,A Memory Called Empire,1
+22,Fall,The Well of Ascension,2
+23,The Dispossessed,The Moon is a Harsh Mistress,1
+24,Old Man's War,The Likeness,2
+25,Children of Time,Warbreaker,1
+26,The Secret Place,Leviathan Wakes,1
+27,Old Man's War,A Memory Called Empire,2
+28,Blindsight,Children of Time,1
+29,The Hero of Ages,The Secret Place,2
+30,The Black Company,Fates and Furies,2
+31,Middlegame,Red Seas Under Red Skies,2
+32,Red Seas Under Red Skies,The Likeness,2
+33,A Wizard of Earthsea,Good Omens,2
+34,The Moon is a Harsh Mistress,The First Fifteen Lives of Harry August,1
+35,Recursion,The Satanic Verses,2
+36,American Gods,Fall,2
+37,Dune,The 7 1/2 Deaths of Evelyn Hardcastle,1
+38,The Dispossessed,Red Seas Under Red Skies,1
+39,The Well of Ascension,The Fifth Season,1
+40,The Black Company,The First Fifteen Lives of Harry August,2
+41,Fates and Furies,Reaper Man,2
+42,Carrie,The Three-Body Problem,2
+43,The Golden Compass,Ancillary Justice,2
+44,The Ocean at the End of the Lane,Ghost Story,1
+45,Old Man's War,The First Fifteen Lives of Harry August,2
+46,The Secret Place,Annihilation,1
+47,Warbreaker,Words of Radiance,2
+48,Fates and Furies,The Diamond Age,2
+49,A Wizard of Earthsea,Hyperion,2
+50,The Well of Ascension,Gideon the Ninth,2
+51,Reaper Man,Jonathan Strange & Mr. Norrell,2
+52,The Fifth Season,The Satanic Verses,2
+53,The Name of the Wind,Fates and Furies,1
+54,The Name of the Wind,Ancillary Justice,1
+55,Dune,Red Seas Under Red Skies,1
+56,Fates and Furies,The 7 1/2 Deaths of Evelyn Hardcastle,1
+57,The Likeness,The Three-Body Problem,2
+58,Blindsight,Red Seas Under Red Skies,1
+59,A Memory Called Empire,The Lies of Locke Lamora,2
+60,Warbreaker,The Way of Kings,2
+61,Reaper Man,The Left Hand of Darkness,2
+62,John Dies at the End,Foucalt's Pendulum,1
+63,Hyperion,The 7 1/2 Deaths of Evelyn Hardcastle,1
+64,Dune,Fall,1
+65,The 7 1/2 Deaths of Evelyn Hardcastle,Old Man's War,1
+66,Annihilation,Mistborn,2
+67,A Memory Called Empire,Foucalt's Pendulum,1
+68,The Moon is a Harsh Mistress,Annihilation,1
+69,American Gods,This is How You Lose the Time War,2
+70,Children of Time,The Likeness,1
+71,The Long Way to a Small Angry Planet,The Left Hand of Darkness,2
+72,Foundation,The Dispossessed,2
+73,The First Fifteen Lives of Harry August,Gideon the Ninth,1
+74,The Well of Ascension,Fall,2
+75,Foundation,The First Fifteen Lives of Harry August,2
+76,The Way of Kings,The Golden Compass,1
+77,The 7 1/2 Deaths of Evelyn Hardcastle,Hyperion,2
+78,The Fifth Season,The Moon is a Harsh Mistress,2
+79,Carrie,Gideon the Ninth,2
+80,Good Omens,The Black Company,1
+81,The Diamond Age,Carrie,1
+82,American Gods,The Left Hand of Darkness,2
+83,Annihilation,Jonathan Strange & Mr. Norrell,2
+84,The First Fifteen Lives of Harry August,Old Man's War,1
+85,Jonathan Strange & Mr. Norrell,The Satanic Verses,2
+86,Gideon the Ninth,The Name of the Wind,2
+87,The Name of the Wind,A Wizard of Earthsea,1
+88,Foucalt's Pendulum,Ghost Story,2
+89,Blindsight,Leviathan Wakes,1
+90,Fall,The Ocean at the End of the Lane,2
+91,The Golden Compass,Foundation,2
+92,The Secret Place,Dune,2
+93,Old Man's War,Mistborn,2
+94,The Secret Place,The Fifth Season,1
+95,Carrie,Wool,1
+96,Foucalt's Pendulum,The Fifth Season,2
+97,Carrie,Ancillary Justice,1
+98,The Dispossessed,Foundation,1
+99,Leviathan Wakes,Good Omens,1
+100,The Black Company,Annihilation,2
+101,Warbreaker,Old Man's War,1
+102,Fates and Furies,Fall,1
+103,Gideon the Ninth,Old Man's War,1
+104,This is How You Lose the Time War,The Long Way to a Small Angry Planet,1
+105,Mistborn,Recursion,2
+106,Ghost Story,The Secret Place,2
+107,The Player of Games,The Diamond Age,1
+108,The Satanic Verses,The Black Company,1
+109,The Golden Compass,Recursion,2
+110,Wool,The Long Way to a Small Angry Planet,2
+111,Blindsight,Foucalt's Pendulum,1
+112,Fall,The First Fifteen Lives of Harry August,2
+113,The Lies of Locke Lamora,Mistborn,1
+114,The Ocean at the End of the Lane,Recursion,2
+115,Leviathan Wakes,Foucalt's Pendulum,1
+116,The Well of Ascension,Foucalt's Pendulum,1
+117,The Fifth Season,The Hero of Ages,2
+118,A Wizard of Earthsea,Fall,2
+119,Middlegame,The Player of Games,2
+120,Recursion,The Moon is a Harsh Mistress,2
+121,The Three-Body Problem,Old Man's War,1
+122,Wool,Red Seas Under Red Skies,2
+123,Warbreaker,Ancillary Justice,2
+124,Fall,Annihilation,1
+125,The Well of Ascension,The Way of Kings,2
+126,Hyperion,The First Fifteen Lives of Harry August,2
+127,A Memory Called Empire,The Secret Place,2
+128,American Gods,Fall,2
+129,Fates and Furies,Middlegame,1
+130,American Gods,Ancillary Justice,1
+131,The Fifth Season,The Name of the Wind,2
+132,The Ocean at the End of the Lane,The Moon is a Harsh Mistress,2
+133,Middlegame,Foundation,2
+134,The First Fifteen Lives of Harry August,Ancillary Justice,1
+135,The Dispossessed,The Golden Compass,1
+136,The Name of the Wind,The Hero of Ages,1
+137,American Gods,The Way of Kings,1
+138,Gideon the Ninth,Annihilation,1
+139,A Memory Called Empire,Mistborn,2
+140,Carrie,Leviathan Wakes,1
+141,The Three-Body Problem,The Left Hand of Darkness,2
+142,Dune,The Name of the Wind,1
+143,The Secret Place,The Moon is a Harsh Mistress,2
+144,The Secret Place,This is How You Lose the Time War,1
+145,The Well of Ascension,Warbreaker,1
+146,The Fifth Season,Jonathan Strange & Mr. Norrell,2
+147,Foucalt's Pendulum,The Name of the Wind,2
+148,The Long Way to a Small Angry Planet,The Black Company,1
+149,American Gods,The Left Hand of Darkness,2
+150,The Likeness,The Name of the Wind,2
+151,The Player of Games,The Ocean at the End of the Lane,1
+152,Fates and Furies,Foundation,1
+153,Recursion,Dune,2
+154,Warbreaker,Annihilation,2
+155,The Left Hand of Darkness,The Hero of Ages,1
+156,The Diamond Age,Mistborn,1
+157,A Memory Called Empire,A Wizard of Earthsea,2
+158,The Fifth Season,Jonathan Strange & Mr. Norrell,2
+159,John Dies at the End,Blindsight,2
+160,Foundation,Good Omens,2
+161,Children of Time,Foucalt's Pendulum,1
+162,Annihilation,Carrie,2
+163,The Fifth Season,The First Fifteen Lives of Harry August,2
+164,Ghost Story,Mistborn,2
+165,Foucalt's Pendulum,The Well of Ascension,2
+166,The Way of Kings,Gideon the Ninth,2
+167,Annihilation,A Memory Called Empire,2
+168,Old Man's War,Foucalt's Pendulum,1
+169,The Secret Place,The Hero of Ages,1
+170,The Black Company,Recursion,2
+171,Hyperion,The Moon is a Harsh Mistress,2
+172,The Secret Place,Wool,1
+173,Carrie,Words of Radiance,1
+174,The 7 1/2 Deaths of Evelyn Hardcastle,Middlegame,1
+175,The Black Company,Leviathan Wakes,2
+176,The Name of the Wind,The Hero of Ages,1
+177,Gideon the Ninth,The Diamond Age,2
+178,The 7 1/2 Deaths of Evelyn Hardcastle,The Long Way to a Small Angry Planet,1
+179,A Wizard of Earthsea,Foundation,1
+180,Blindsight,Children of Time,1
+181,Mistborn,Wool,1
+182,Ancillary Justice,The Golden Compass,1
+183,Foundation,The Left Hand of Darkness,2
+184,Children of Time,Hyperion,2
+185,The Ocean at the End of the Lane,The Way of Kings,2
+186,The Fifth Season,Ghost Story,1
+187,Middlegame,The Black Company,1
+188,A Wizard of Earthsea,American Gods,2
+189,The Hero of Ages,Gideon the Ninth,2
+190,The Hero of Ages,The Left Hand of Darkness,2
+191,This is How You Lose the Time War,Recursion,1
+192,Foucalt's Pendulum,The Player of Games,2
+193,The Golden Compass,Blindsight,2
+194,Foundation,The Way of Kings,2
+195,The Satanic Verses,Mistborn,1
+196,Words of Radiance,Gideon the Ninth,2
+197,The Dispossessed,The Lies of Locke Lamora,1
+198,The Lies of Locke Lamora,The Player of Games,2
+199,The Player of Games,Hyperion,1
+200,Recursion,Hyperion,2
+201,The 7 1/2 Deaths of Evelyn Hardcastle,Mistborn,2
+202,The Hero of Ages,The Diamond Age,2
+203,The Secret Place,The Moon is a Harsh Mistress,2
+204,The Secret Place,Carrie,1
+205,Carrie,This is How You Lose the Time War,1
+206,The Secret Place,American Gods,1
+207,The Fifth Season,The Name of the Wind,2
+208,The Player of Games,Foundation,1
+209,A Wizard of Earthsea,The Well of Ascension,1
+210,Children of Time,The Black Company,1
+211,A Memory Called Empire,The Name of the Wind,2
+212,Red Seas Under Red Skies,Fall,1
+213,A Wizard of Earthsea,The Moon is a Harsh Mistress,2
+214,Ancillary Justice,Wool,1
+215,Dune,The 7 1/2 Deaths of Evelyn Hardcastle,1
+216,Warbreaker,A Memory Called Empire,2
+217,The Fifth Season,The Black Company,1
+218,Carrie,The Secret Place,2
+219,Fates and Furies,The Golden Compass,1
+220,Warbreaker,Children of Time,2
+221,Good Omens,Foundation,1
+222,The Way of Kings,A Memory Called Empire,1
+223,Wool,John Dies at the End,2
+224,The Likeness,The Three-Body Problem,2
+225,The Black Company,Recursion,2
+226,The Three-Body Problem,The 7 1/2 Deaths of Evelyn Hardcastle,1
+227,The Diamond Age,Red Seas Under Red Skies,1
+228,Old Man's War,Dune,2
+229,The Long Way to a Small Angry Planet,The Dispossessed,2
+230,Warbreaker,The Left Hand of Darkness,2
+231,The Three-Body Problem,Ghost Story,1
+232,The Well of Ascension,A Wizard of Earthsea,2
+233,Mistborn,Gideon the Ninth,2
+234,Red Seas Under Red Skies,The First Fifteen Lives of Harry August,2
+235,Wool,Foundation,2
+236,Ancillary Justice,Fall,2
+237,Words of Radiance,Ancillary Justice,1
+238,The Secret Place,Fall,1
+239,The Hero of Ages,Blindsight,2
+240,Mistborn,The Likeness,2
+241,Foucalt's Pendulum,Good Omens,2
+242,Good Omens,The Player of Games,2
+243,Gideon the Ninth,Words of Radiance,1
+244,Warbreaker,Dune,2
+245,The Three-Body Problem,Good Omens,1
+246,A Wizard of Earthsea,The Secret Place,2
+247,The Satanic Verses,The First Fifteen Lives of Harry August,2
+248,Gideon the Ninth,Foundation,1
+249,The Diamond Age,Ghost Story,1
+250,The 7 1/2 Deaths of Evelyn Hardcastle,Fates and Furies,2
+251,John Dies at the End,Reaper Man,1
+252,Ghost Story,The Moon is a Harsh Mistress,2
+253,Wool,Warbreaker,2
+254,The Left Hand of Darkness,The Well of Ascension,1
+255,The Likeness,The Lies of Locke Lamora,2
+256,The Well of Ascension,Ancillary Justice,1
+257,The First Fifteen Lives of Harry August,The Name of the Wind,2
+258,The Long Way to a Small Angry Planet,Old Man's War,1
+259,Blindsight,The Secret Place,1
+260,Ghost Story,The Way of Kings,2
+261,The Likeness,John Dies at the End,1
+262,Foundation,Recursion,2
+263,The Hero of Ages,The Dispossessed,2
+264,Foundation,The First Fifteen Lives of Harry August,2
+265,A Wizard of Earthsea,The Black Company,1
+266,Red Seas Under Red Skies,Fates and Furies,1
+267,Foucalt's Pendulum,The Secret Place,2
+268,Wool,The Secret Place,2
+269,The Player of Games,The Moon is a Harsh Mistress,2
+270,Old Man's War,The 7 1/2 Deaths of Evelyn Hardcastle,2
+271,Leviathan Wakes,The First Fifteen Lives of Harry August,2
+272,Fates and Furies,Middlegame,1
+273,The First Fifteen Lives of Harry August,Red Seas Under Red Skies,1
+274,Warbreaker,The Satanic Verses,2
+275,Wool,The Fifth Season,2
+276,Fates and Furies,Annihilation,1
+277,The First Fifteen Lives of Harry August,Foundation,1
+278,Annihilation,Hyperion,2
+279,Good Omens,Wool,1
+280,Gideon the Ninth,Leviathan Wakes,1
+281,The Black Company,The 7 1/2 Deaths of Evelyn Hardcastle,2
+282,Ancillary Justice,The Way of Kings,2
+283,The 7 1/2 Deaths of Evelyn Hardcastle,The Black Company,1
+284,John Dies at the End,The Secret Place,2
+285,Hyperion,Red Seas Under Red Skies,1
+286,A Wizard of Earthsea,The Long Way to a Small Angry Planet,1
+287,The Secret Place,The Black Company,1
+288,The Ocean at the End of the Lane,Ancillary Justice,1
+289,Old Man's War,Good Omens,2
+290,The Ocean at the End of the Lane,Fates and Furies,2
+291,Red Seas Under Red Skies,Foucalt's Pendulum,1
+292,The Dispossessed,Annihilation,1
+293,Fates and Furies,The Left Hand of Darkness,2
+294,Carrie,This is How You Lose the Time War,1
+295,Recursion,The Likeness,2
+296,Wool,Warbreaker,2
+297,The First Fifteen Lives of Harry August,Fall,1
+298,The Diamond Age,A Wizard of Earthsea,1
+299,The Black Company,The 7 1/2 Deaths of Evelyn Hardcastle,2
+300,The Black Company,Wool,1
+301,The Player of Games,The Long Way to a Small Angry Planet,1
+302,The Fifth Season,The Long Way to a Small Angry Planet,2
+303,The First Fifteen Lives of Harry August,American Gods,1
+304,Annihilation,Red Seas Under Red Skies,2
+305,Leviathan Wakes,Blindsight,2
+306,Good Omens,The 7 1/2 Deaths of Evelyn Hardcastle,1
+307,Warbreaker,Annihilation,2
+308,Fall,Dune,2
+309,The Long Way to a Small Angry Planet,Fall,2
+310,The Ocean at the End of the Lane,The Three-Body Problem,2
+311,The Lies of Locke Lamora,Carrie,1
+312,Leviathan Wakes,Foucalt's Pendulum,1
+313,Recursion,Red Seas Under Red Skies,2
+314,The Black Company,A Memory Called Empire,2
+315,Leviathan Wakes,Ghost Story,1
+316,The Fifth Season,Wool,1
+317,A Wizard of Earthsea,Reaper Man,1
+318,Blindsight,The Moon is a Harsh Mistress,1
+319,Blindsight,The Ocean at the End of the Lane,1
+320,Hyperion,The 7 1/2 Deaths of Evelyn Hardcastle,1
+321,Middlegame,Reaper Man,2
+322,Reaper Man,The Hero of Ages,1
+323,The First Fifteen Lives of Harry August,The Well of Ascension,1
+324,The Ocean at the End of the Lane,Carrie,2
+325,The Golden Compass,Foundation,2
+326,The Ocean at the End of the Lane,Leviathan Wakes,2
+327,Foucalt's Pendulum,Old Man's War,2
+328,The Satanic Verses,Blindsight,2
+329,The First Fifteen Lives of Harry August,Gideon the Ninth,1
+330,The Hero of Ages,Words of Radiance,2
+331,The 7 1/2 Deaths of Evelyn Hardcastle,The Way of Kings,2
+332,Fall,Blindsight,2
+333,The Player of Games,Reaper Man,1
+334,The Dispossessed,The Fifth Season,1
+335,The Hero of Ages,Hyperion,2
+336,John Dies at the End,The Black Company,1
+337,American Gods,The Black Company,1
+338,The Likeness,Old Man's War,1
+339,American Gods,Annihilation,1
+340,Dune,The Player of Games,1
+341,The Moon is a Harsh Mistress,Foundation,1
+342,The Satanic Verses,John Dies at the End,1
+343,Annihilation,The Dispossessed,2
+344,A Wizard of Earthsea,Warbreaker,1
+345,The Likeness,Fates and Furies,1
+346,Warbreaker,Fall,2
+347,Red Seas Under Red Skies,The Lies of Locke Lamora,2
+348,Dune,Wool,1
+349,Wool,The Ocean at the End of the Lane,2
+350,The Golden Compass,The Way of Kings,2
+351,Leviathan Wakes,The Left Hand of Darkness,2
+352,The Diamond Age,The Fifth Season,1
+353,The Lies of Locke Lamora,The Dispossessed,2
+354,The Ocean at the End of the Lane,The 7 1/2 Deaths of Evelyn Hardcastle,1
+355,Gideon the Ninth,Wool,1
+356,Fall,Carrie,2
+357,The Diamond Age,The Long Way to a Small Angry Planet,1
+358,Annihilation,Jonathan Strange & Mr. Norrell,2
+359,Good Omens,The Moon is a Harsh Mistress,2
+360,Ghost Story,The First Fifteen Lives of Harry August,2
+361,Ghost Story,Gideon the Ninth,2
+362,Carrie,Mistborn,1
+363,The Golden Compass,The Way of Kings,2
+364,The Satanic Verses,This is How You Lose the Time War,2
+365,Middlegame,Children of Time,2
+366,Annihilation,Mistborn,2
+367,The Player of Games,The Lies of Locke Lamora,1
+368,The First Fifteen Lives of Harry August,Dune,2
+369,Middlegame,Dune,2
+370,Carrie,Blindsight,2
+371,The Secret Place,Fall,1
+372,The Ocean at the End of the Lane,Fates and Furies,2
+373,Old Man's War,Carrie,2
+374,The Three-Body Problem,The 7 1/2 Deaths of Evelyn Hardcastle,1
+375,Blindsight,Children of Time,1
+376,Blindsight,The Black Company,1
+377,The Fifth Season,Fall,2
+378,Carrie,Fall,1
+379,The Well of Ascension,Annihilation,1
+380,Warbreaker,The Secret Place,2
+381,The Golden Compass,The Way of Kings,2
+382,Leviathan Wakes,The Hero of Ages,1
+383,The 7 1/2 Deaths of Evelyn Hardcastle,The Long Way to a Small Angry Planet,2
+384,Recursion,The Lies of Locke Lamora,2
+385,Gideon the Ninth,The Lies of Locke Lamora,2
+386,Annihilation,The Ocean at the End of the Lane,2
+387,Red Seas Under Red Skies,Leviathan Wakes,2
+388,The Secret Place,The Player of Games,1
+389,Wool,The Moon is a Harsh Mistress,2
+390,Fall,Red Seas Under Red Skies,2
+391,This is How You Lose the Time War,The Hero of Ages,1
+392,John Dies at the End,The First Fifteen Lives of Harry August,2
+393,Leviathan Wakes,Wool,1
+394,Good Omens,A Wizard of Earthsea,2
+395,The Name of the Wind,The Dispossessed,2
+396,The Lies of Locke Lamora,A Wizard of Earthsea,1
+397,Red Seas Under Red Skies,The Hero of Ages,1
+398,Reaper Man,The Likeness,2
+399,Foundation,The Diamond Age,2
+400,The Ocean at the End of the Lane,Warbreaker,1
+201,The Fifth Season,John Dies at the End,2
+202,Blindsight,John Dies at the End,1
+203,The Three-Body Problem,Ancillary Justice,1
+204,The Way of Kings,The First Fifteen Lives of Harry August,2
+205,The Name of the Wind,Fall,1
+206,The Three-Body Problem,Blindsight,2
+207,Children of Time,The Long Way to a Small Angry Planet,1
+208,A Memory Called Empire,The Black Company,1
+209,The Diamond Age,Good Omens,1
+210,Foucalt's Pendulum,The Diamond Age,2
+211,The Name of the Wind,The Well of Ascension,1
+212,The Long Way to a Small Angry Planet,Ghost Story,1
+213,Ancillary Justice,Ghost Story,2
+214,The Black Company,Wool,1
+215,The Lies of Locke Lamora,The Name of the Wind,2
+216,The Black Company,Jonathan Strange & Mr. Norrell,2
+217,Wool,The Well of Ascension,2
+218,The Name of the Wind,Mistborn,1
+219,Carrie,The Satanic Verses,2
+220,Middlegame,Foundation,2
+221,Dune,The Satanic Verses,1
+222,The Golden Compass,Jonathan Strange & Mr. Norrell,2
+223,Leviathan Wakes,A Wizard of Earthsea,1
+224,Children of Time,Annihilation,1
+225,The Long Way to a Small Angry Planet,Dune,2
+226,The Player of Games,Reaper Man,1
+227,Fall,The Secret Place,2
+228,The Dispossessed,Words of Radiance,1
+229,The Black Company,Middlegame,1
+230,Middlegame,The Likeness, 2
+231,The First Fifteen Lives of Harry August,The Dispossessed,2
+232,The Three-Body Problem,The Likeness,2
+233,Reaper Man,The Secret Place,2
+234,The Name of the Wind,Children of Time,1
+235,A Wizard of Earthsea,The Fifth Season,1
+236,The Diamond Age,John Dies at the End,1
+237,Carrie,The Fifth Season,1
+238,The Long Way to a Small Angry Planet,Ghost Story,2
+239,The Way of Kings,Jonathan Strange & Mr. Norrell,2
+240,Reaper Man,The Golden Compass,1
+241,Carrie,Gideon the Ninth,2
+242,Jonathan Strange & Mr. Norrell,Ghost Story,1
+243,Jonathan Strange & Mr. Norrell,The Lies of Locke Lamora,2
+244,Foucalt's Pendulum,A Memory Called Empire,2
+245,Fall,Ghost Story,1
+246,The Golden Compass,Fates and Furies,2
+247,Hyperion,The Satanic Verses,1
+248,The Fifth Season,Children of Time,2
+249,This is How You Lose the Time War,Jonathan Strange & Mr. Norrell,2
+250,The Left Hand of Darkness,Blindsight,2
+251,Good Omens,Fates and Furies,2
+252,A Wizard of Earthsea,The Likeness,1
+253,The Moon is a Harsh Mistress,Mistborn,1
+254,Fall,Good Omens,1
+255,The Satanic Verses,The Golden Compass,1
+256,The Black Company,Foucalt's Pendulum,1
+257,Foundation,Ancillary Justice,2
+258,A Memory Called Empire,The Black Company,1
+259,The Golden Compass,The Diamond Age,2
+260,A Wizard of Earthsea,American Gods,2
+261,Wool,Middlegame,1
+262,The Hero of Ages,Dune,2
+263,Fall,The First Fifteen Lives of Harry August,2
+264,Warbreaker,The Black Company,2
+265,Good Omens,The Diamond Age,2
+266,John Dies at the End,The Diamond Age,2
+267,American Gods,Words of Radiance,1
+268,Blindsight,Jonathan Strange & Mr. Norrell,1
+269,Reaper Man,One Hundred Years of Solitude,2
+270,Dune,The Lies of Locke Lamora,1
+271,John Dies at the End,The Long Way to a Small Angry Planet,1
+272,Blindsight,This is How You Lose the Time War,1
+273,One Hundred Years of Solitude,The Hero of Ages,1
+274,Words of Radiance,Mistborn,1
+275,Words of Radiance,Ghost Story,2
+276,The Hero of Ages,Dune,2
+277,Jonathan Strange & Mr. Norrell,The Player of Games,2
+278,John Dies at the End,The Lies of Locke Lamora,2
+279,The Secret Place,This is How You Lose the Time War,1
+280,The Way of Kings,The Likeness,2
